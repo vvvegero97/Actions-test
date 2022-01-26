@@ -1,0 +1,23 @@
+#################################################
+This is a list of my installed packets for DevOps
+#################################################
+ansible
+curl
+docker
+epel-release
+net-tools
+iptables
+git
+gzip
+httpd
+nginx
+jenkins
+openssh
+pcre, pcre-devel
+php
+python
+sed
+tar
+tree
+nano
+wget
